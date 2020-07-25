@@ -18,29 +18,29 @@ Repositori ini saya gunakan untuk menyimpan dan membagikan data sebagai hasil da
 
 ## Preliminary
 
-- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/R/Introduction%20to%20Data%20Science%20with%20R)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSPHOS)] Introduction to Data Science with R
+- [[🔗](#)] [[🌎](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSPHOS)] Introduction to Data Science with R
 
-- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/R/R%20Fundamental%20for%20Data%20Science)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABINTR1CLGENH)] R Fundamental for Data Science
+- [[🔗](#)] [[🌎](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABINTR1CLGENH)] R Fundamental for Data Science
 
 ## Fundamental
 
-- [[🔗](#)] [[📋](#)] Data Preparation in Data Science using R
+- [[🔗](#)] [[🌎](#)] [[📋](#)] Data Preparation in Data Science using R
 
-- [[🔗](#)] [[📋](#)] Statistics using R for Data Science
+- [[🔗](#)] [[🌎](#)] [[📋](#)] Statistics using R for Data Science
 
-- [[🔗](#)] [[📋](#)] Data Exploration in Data Science using R
+- [[🔗](#)] [[🌎](#)] [[📋](#)] Data Exploration in Data Science using R
 
-- [[🔗](#)] [[📋](#)] Data Visualization in Data Science using R
+- [[🔗](#)] [[🌎](#)] [[📋](#)] Data Visualization in Data Science using R
 
 ## Applied Data Science
 
-- [[🔗](#)] [[📋](#)] Data Science in Finance: Credit Risk Analysis
+- [[🔗](#)] [[🌎](#)] [[📋](#)] Data Science in Finance: Credit Risk Analysis
 
-- [[🔗](#)] [[📋](#)] Data Science in Retail: Market Basket Analysis
+- [[🔗](#)] [[🌎](#)] [[📋](#)] Data Science in Retail: Market Basket Analysis
 
-- [[🔗](#)] [[📋](#)] Data Science in Marketing: Customer Segmentation
+- [[🔗](#)] [[🌎](#)] [[📋](#)] Data Science in Marketing: Customer Segmentation
 
-- [[🔗](#)] [[📋](#)] Data Science in Finance: Dimension Reduction
+- [[🔗](#)] [[🌎](#)] [[📋](#)] Data Science in Finance: Dimension Reduction
   
 <br />
     
@@ -48,19 +48,19 @@ Repositori ini saya gunakan untuk menyimpan dan membagikan data sebagai hasil da
 
 ## Preliminary
 
-- [[🔗](#)] [[📋](#)] Python Fundamental for Data Science
+- [[🔗](#)] [[🌎](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABINTP1EGGMDW)] Python Fundamental for Data Science
 
 ## Fundamental
 
-- [[🔗](#)] [[📋](#)] Data Wrangling Python
+- [[🔗](#)] [[🌎](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1HCKQDN)] Data Wrangling Python
 
 ## Applied Data Science
 
-- [[🔗](#)] [[📋](#)] Basic Feature Discovering for Machine Learning
+- [[🔗](#)] [[🌎](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABFATPYWBWGKN)] Basic Feature Discovering for Machine Learning
 
-- [[🔗](#)] [[📋](#)] Data Science in Telco: Data Cleansing
+- [[🔗](#)] [[🌎](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABAPL1%20BVFPEI)] Data Science in Telco: Data Cleansing
 
-- [[🔗](#)] [[📋](#)] Customer Churn Prediction using Machine Learning
+- [[🔗](#)] [[🌎](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABAPL2%20JGNGCK)] Customer Churn Prediction using Machine Learning
 
 <br />
 
@@ -68,7 +68,7 @@ Repositori ini saya gunakan untuk menyimpan dan membagikan data sebagai hasil da
 
 ## Preliminary
 
-- [[🔗](#)] [[📋](#)] Fundamental SQL with SELECT Statement
+- [[🔗](#)] [[🌎](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1FLMKIW)] Fundamental SQL with SELECT Statement
 
 <br />
 
