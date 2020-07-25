@@ -12,13 +12,77 @@ Repositori ini saya gunakan untuk menyimpan dan membagikan data sebagai hasil da
 
 ![Learn](README/Learn.jpg)
 
+<br />
+
+![R](README/6.png)
+
+## Preliminary
+
+- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/R/Introduction%20to%20Data%20Science%20with%20R)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSPHOS)] Introduction to Data Science with R
+
+- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/R/R%20Fundamental%20for%20Data%20Science)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABINTR1CLGENH)] R Fundamental for Data Science
+
+## Fundamental
+
+- [[🔗](#)] [[📋](#)] Data Preparation in Data Science using R
+
+- [[🔗](#)] [[📋](#)] Statistics using R for Data Science
+
+- [[🔗](#)] [[📋](#)] Data Exploration in Data Science using R
+
+- [[🔗](#)] [[📋](#)] Data Visualization in Data Science using R
+
+## Applied Data Science
+
+- [[🔗](#)] [[📋](#)] Data Science in Finance: Credit Risk Analysis
+
+- [[🔗](#)] [[📋](#)] Data Science in Retail: Market Basket Analysis
+
+- [[🔗](#)] [[📋](#)] Data Science in Marketing: Customer Segmentation
+
+- [[🔗](#)] [[📋](#)] Data Science in Finance: Dimension Reduction
+  
+<br />
+    
+![Python](README/5.png)
+
+## Preliminary
+
+- [[🔗](#)] [[📋](#)] Python Fundamental for Data Science
+
+## Fundamental
+
+- [[🔗](#)] [[📋](#)] Data Wrangling Python
+
+## Applied Data Science
+
+- [[🔗](#)] [[📋](#)] Basic Feature Discovering for Machine Learning
+
+- [[🔗](#)] [[📋](#)] Data Science in Telco: Data Cleansing
+
+- [[🔗](#)] [[📋](#)] Customer Churn Prediction using Machine Learning
+
+<br />
+
+![SQL](README/4.png)
+
+## Preliminary
+
+- [[🔗](#)] [[📋](#)] Fundamental SQL with SELECT Statement
+
+<br />
+
 # Project
 
 ![Project](README/Project.jpg)
 
+<br />
+
 # Career Track
 
 ![Career](README/Career.jpg)
+
+<br />
 
 # Yuk Belajar di DQLab
 
