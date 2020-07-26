@@ -78,11 +78,73 @@ Repositori ini saya gunakan untuk menyimpan dan membagikan data sebagai hasil da
 
 <br />
 
+![R](README/6.png)
+
+## List of Projects
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Project Machine Learning for Retail with R: Product Packaging
+
+- [[❌](#)] [[❌](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABPRJ8%20BWNISN)] Project Data Analysis for Finance: Performa Cabang
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Project Data Analysis for Finance: Proses Investasi Investor
+  
+<br />
+    
+![Python](README/5.png)
+
+## List of Projects
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Science Challenge with Python
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Engineer Challenge with Python
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Project Machine Learning with Python: Building Recommender System
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Project Machine Learning with Python: Building Recommender System with Similarity Function
+
+<br />
+
+![SQL](README/4.png)
+
+## List of Projects
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Engineer Challenge with SQL
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Project Data Analysis for Retail: Sales Performance Report
+
+- [[❌](#)] [[❌](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABPRJ10BTTRKO)] Project Data Analysis for B2B Retail: Customer Analytics Report
+
+<br />
+
 # Career Track
 
 ![Career](README/Career.jpg)
 
 <br />
+
+## Memahami Bahasa Pemrograman Fundamental
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Python for Data Professional Beginner - Part 1
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Python for Data Professional Beginner - Part 2
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Python for Data Professional Beginner - Part 3
+
+## Memahami Bahasa SQL dan Sistem Database Relasional agar dapat mengolah data di Perusahaan Yang Sudah Menerapkan Sistem IT
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Fundamental SQL Using SELECT Statement
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Fundamental SQL Using FUNCTION and GROUP BY
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Fundamental SQL Using INNER JOIN and UNION
+
+## Memahami Konsep dan Penerapan Exploratory Data Analysis dalam Studi Kasus Bisnis
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Exploratory Data Analysis with Python for Beginner
+
+## Mengolah Dataset Dalam Jumlah Kecil sampai dengan Besar
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Manipulation with Pandas - Part 1
 
 # Yuk Belajar di DQLab
 
