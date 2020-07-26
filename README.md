@@ -120,8 +120,6 @@ Repositori ini saya gunakan untuk menyimpan dan membagikan data sebagai hasil da
 
 ![Career](README/Career.jpg)
 
-<br />
-
 ## Memahami Bahasa Pemrograman Fundamental
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Python for Data Professional Beginner - Part 1
