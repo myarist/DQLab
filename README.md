@@ -52,7 +52,7 @@ Repositori ini saya gunakan untuk menyimpan dan membagikan data sebagai hasil da
 
 ## Fundamental
 
-- [[❌](#)] [[❌](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1HCKQDN)] Data Wrangling Python
+- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Wrangling%20Python)] [[🌎](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Fundamental/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1HCKQDN)] Data Wrangling Python
 
 ## Applied Data Science
 
