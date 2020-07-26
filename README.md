@@ -8,6 +8,8 @@ Di DQLab, terdapat menu **Learn** dimana kita bisa belajar materi yang disajikan
 
 Repositori ini saya gunakan untuk menyimpan dan membagikan data sebagai hasil dari belajar dan mengerjakan berbagai materi dan project di DQLab. Dalam setiap folder akan saya lampirkan dokumen markdown dan data yang digunakan dalam materi atau project yang bersangkutan.
 
+<br />
+
 # Learn
 
 ![Learn](README/Learn.jpg)
@@ -143,6 +145,8 @@ Repositori ini saya gunakan untuk menyimpan dan membagikan data sebagai hasil da
 ## Mengolah Dataset Dalam Jumlah Kecil sampai dengan Besar
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Data Manipulation with Pandas - Part 1
+
+<br />
 
 # Yuk Belajar di DQLab
 
