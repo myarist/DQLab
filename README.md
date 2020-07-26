@@ -48,7 +48,7 @@ Repositori ini saya gunakan untuk menyimpan dan membagikan data sebagai hasil da
 
 ## Preliminary
 
-- [[🔗](#)] [[🌎](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABINTP1EGGMDW)] Python Fundamental for Data Science
+- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Preliminary/Python%20Fundamental%20for%20Data%20Science)] [[🌎](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Preliminary/Python%20Fundamental%20for%20Data%20Science/Python%20Fundamental%20for%20Data%20Science.ipynb)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABINTP1EGGMDW)] Python Fundamental for Data Science
 
 ## Fundamental
 
