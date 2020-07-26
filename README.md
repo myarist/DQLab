@@ -56,7 +56,7 @@ Repositori ini saya gunakan untuk menyimpan dan membagikan data sebagai hasil da
 
 ## Applied Data Science
 
-- [[❌](#)] [[❌](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABFATPYWBWGKN)] Basic Feature Discovering for Machine Learning
+- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Basic%20Feature%20Discovering%20for%20Machine%20Learning)] [[🌎](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Applied%20Data%20Science/Basic%20Feature%20Discovering%20for%20Machine%20Learning/Basic%20Feature%20Discovering%20for%20Machine%20Learning.ipynb)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABFATPYWBWGKN)] Basic Feature Discovering for Machine Learning
 
 - [[❌](#)] [[❌](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABAPL1%20BVFPEI)] Data Science in Telco: Data Cleansing
 
