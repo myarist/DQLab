@@ -18,9 +18,9 @@ Repositori ini saya gunakan untuk menyimpan dan membagikan data sebagai hasil da
 
 ## Preliminary
 
-- [[🔗](#)] [[🌎](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSPHOS)] Introduction to Data Science with R
+- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/Introduction%20to%20Data%20Science%20with%20R)] [[🌎](https://rpubs.com/myarist/DQSkill_IntroDataScienceR)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSPHOS)] Introduction to Data Science with R
 
-- [[🔗](#)] [[🌎](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABINTR1CLGENH)] R Fundamental for Data Science
+- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/R%20Fundamental%20for%20Data%20Science)] [[🌎](https://rpubs.com/myarist/DQSkill_FundamentalDataScienceR)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABINTR1CLGENH)] R Fundamental for Data Science
 
 ## Fundamental
 
