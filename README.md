@@ -58,7 +58,7 @@ Repositori ini saya gunakan untuk menyimpan dan membagikan data sebagai hasil da
 
 - [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Basic%20Feature%20Discovering%20for%20Machine%20Learning)] [[🌎](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Applied%20Data%20Science/Basic%20Feature%20Discovering%20for%20Machine%20Learning/Basic%20Feature%20Discovering%20for%20Machine%20Learning.ipynb)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABFATPYWBWGKN)] Basic Feature Discovering for Machine Learning
 
-- [[❌](#)] [[❌](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABAPL1%20BVFPEI)] Data Science in Telco: Data Cleansing
+- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20in%20Telco%20Data%20Cleansing)] [[🌎](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20in%20Telco%20Data%20Cleansing/Data%20Science%20in%20Telco%20Data%20Cleansing.ipynb)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABAPL1%20BVFPEI)] Data Science in Telco: Data Cleansing
 
 - [[❌](#)] [[❌](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABAPL2%20JGNGCK)] Customer Churn Prediction using Machine Learning
 
