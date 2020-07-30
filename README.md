@@ -53,6 +53,8 @@
 - [[❌](#)] [[❌](#)] [[❌](#)] Data Science in Marketing: Customer Segmentation
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Data Science in Finance: Dimension Reduction
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Analisis Data COVID19 di Indonesia
   
 <br />
     
