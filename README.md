@@ -54,7 +54,7 @@
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Data Science in Finance: Dimension Reduction
 
-- [[❌](#)] [[❌](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABAPL3%20EVHSSM)] Analisis Data COVID19 di Indonesia
+- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Analisis%20Data%20COVID19%20di%20Indonesia)] [[🌎](https://rpubs.com/myarist/DQSkill_AnalisisCovid19Indonesia)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABAPL3%20EVHSSM)] Analisis Data COVID19 di Indonesia
   
 <br />
     
