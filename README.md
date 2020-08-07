@@ -50,7 +50,7 @@
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Data Science in Retail: Market Basket Analysis
 
-- [[❌](#)] [[❌](#)] [[❌](#)] Data Science in Marketing: Customer Segmentation
+- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Marketing%20Customer%20Segmentation)] [[🌎](https://rpubs.com/myarist/DQSkill_CustomerSegmentation)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABMLMKTUNNJKU)] Data Science in Marketing: Customer Segmentation
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Data Science in Finance: Dimension Reduction
 
