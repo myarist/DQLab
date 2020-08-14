@@ -68,6 +68,8 @@
 
 - [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Wrangling%20Python)] [[🌎](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Fundamental/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1HCKQDN)] Data Wrangling Python
 
+- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Fundamental%20Data%20Visualization%20with%20Python)] [[🌎](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Fundamental/Fundamental%20Data%20Visualization%20with%20Python/Fundamental%20Data%20Visualization%20with%20Python.ipynb)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABINTP1TUORIC)] Fundamental Data Visualization with Python
+
 ## Applied Data Science
 
 - [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Basic%20Feature%20Discovering%20for%20Machine%20Learning)] [[🌎](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Applied%20Data%20Science/Basic%20Feature%20Discovering%20for%20Machine%20Learning/Basic%20Feature%20Discovering%20for%20Machine%20Learning.ipynb)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABFATPYWBWGKN)] Basic Feature Discovering for Machine Learning
