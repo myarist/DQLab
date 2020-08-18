@@ -100,7 +100,7 @@
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Project Machine Learning for Retail with R: Product Packaging
 
-- [[❌](#)] [[❌](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABPRJ8%20BWNISN)] Project Data Analysis for Finance: Performa Cabang
+- [[🔗](https://github.com/MyArist/DQLab/tree/master/Project/R/Project%20Data%20Analysis%20for%20Finance%20Performa%20Cabang)] [[🌎](https://rpubs.com/myarist/DQProject_FinancePerformaCabang)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABPRJ8%20BWNISN)] Project Data Analysis for Finance: Performa Cabang
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Project Data Analysis for Finance: Proses Investasi Investor
   
