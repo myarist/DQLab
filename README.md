@@ -36,8 +36,6 @@
 
 ## Fundamental
 
-- [[❌](#)] [[❌](#)] [[❌](#)] Data Preparation in Data Science using R
-
 - [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Statistics%20using%20R%20for%20Data%20Science)] [[🌎](https://rpubs.com/myarist/DQSkill_StatisticsDataScience)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABINTS1FCCTIJ)] Statistics using R for Data Science
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Data Exploration in Data Science using R
