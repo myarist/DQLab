@@ -44,6 +44,8 @@
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Fundamental Data Visualization using R
 
+- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Advanced%20Data%20Visualization%20for%20Everyone)] [[🌎](https://rpubs.com/myarist/DQSKill_AdvancedDataVisualization)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABAPL4%20PSAHWV)] Advanced Data Visualization for Everyone
+
 ## Applied Data Science
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Data Science in Finance: Credit Risk Analysis
