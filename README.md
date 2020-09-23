@@ -30,13 +30,13 @@
 
 ## Preliminary
 
-- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/Introduction%20to%20Data%20Science%20with%20R)] [[🌎](https://rpubs.com/myarist/DQSkill_IntroDataScienceR)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSPHOS)] Introduction to Data Science with R
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/Introduction%20to%20Data%20Science%20with%20R)] [[🔍](https://rpubs.com/myarist/DQSkill_IntroDataScienceR)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSPHOS)] Introduction to Data Science with R
 
-- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/R%20Fundamental%20for%20Data%20Science)] [[🌎](https://rpubs.com/myarist/DQSkill_FundamentalDataScienceR)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABINTR1CLGENH)] R Fundamental for Data Science
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/R%20Fundamental%20for%20Data%20Science)] [[🔍](https://rpubs.com/myarist/DQSkill_FundamentalDataScienceR)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTR1CLGENH)] R Fundamental for Data Science
 
 ## Fundamental
 
-- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Statistics%20using%20R%20for%20Data%20Science)] [[🌎](https://rpubs.com/myarist/DQSkill_StatisticsDataScience)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABINTS1FCCTIJ)] Statistics using R for Data Science
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Statistics%20using%20R%20for%20Data%20Science)] [[🔍](https://rpubs.com/myarist/DQSkill_StatisticsDataScience)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTS1FCCTIJ)] Statistics using R for Data Science
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Data Exploration in Data Science using R
 
@@ -44,7 +44,7 @@
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Fundamental Data Visualization using R
 
-- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Advanced%20Data%20Visualization%20for%20Everyone)] [[🌎](https://rpubs.com/myarist/DQSKill_AdvancedDataVisualization)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABAPL4%20PSAHWV)] Advanced Data Visualization for Everyone
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Advanced%20Data%20Visualization%20for%20Everyone)] [[🔍](https://rpubs.com/myarist/DQSKill_AdvancedDataVisualization)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL4%20PSAHWV)] Advanced Data Visualization for Everyone
 
 ## Applied Data Science
 
@@ -52,11 +52,11 @@
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Data Science in Retail: Market Basket Analysis
 
-- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Marketing%20Customer%20Segmentation)] [[🌎](https://rpubs.com/myarist/DQSkill_CustomerSegmentation)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABMLMKTUNNJKU)] Data Science in Marketing: Customer Segmentation
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Marketing%20Customer%20Segmentation)] [[🔍](https://rpubs.com/myarist/DQSkill_CustomerSegmentation)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLMKTUNNJKU)] Data Science in Marketing: Customer Segmentation
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Data Science in Finance: Dimension Reduction
 
-- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Analisis%20Data%20COVID19%20di%20Indonesia)] [[🌎](https://rpubs.com/myarist/DQSkill_AnalisisCovid19Indonesia)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABAPL3%20EVHSSM)] Analisis Data COVID19 di Indonesia
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Analisis%20Data%20COVID19%20di%20Indonesia)] [[🔍](https://rpubs.com/myarist/DQSkill_AnalisisCovid19Indonesia)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL3%20EVHSSM)] Analisis Data COVID19 di Indonesia
   
 <br />
     
@@ -64,21 +64,21 @@
 
 ## Preliminary
 
-- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Preliminary/Python%20Fundamental%20for%20Data%20Science)] [[🌎](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Preliminary/Python%20Fundamental%20for%20Data%20Science/Python%20Fundamental%20for%20Data%20Science.ipynb)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABINTP1EGGMDW)] Python Fundamental for Data Science
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Preliminary/Python%20Fundamental%20for%20Data%20Science)] [[🔍](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Preliminary/Python%20Fundamental%20for%20Data%20Science/Python%20Fundamental%20for%20Data%20Science.ipynb)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1EGGMDW)] Python Fundamental for Data Science
 
 ## Fundamental
 
-- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Wrangling%20Python)] [[🌎](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Fundamental/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1HCKQDN)] Data Wrangling Python
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Wrangling%20Python)] [[🔍](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Fundamental/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1HCKQDN)] Data Wrangling Python
 
-- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Fundamental%20Data%20Visualization%20with%20Python)] [[🌎](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Fundamental/Fundamental%20Data%20Visualization%20with%20Python/Fundamental%20Data%20Visualization%20with%20Python.ipynb)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABINTP1TUORIC)] Fundamental Data Visualization with Python
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Fundamental%20Data%20Visualization%20with%20Python)] [[🔍](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Fundamental/Fundamental%20Data%20Visualization%20with%20Python/Fundamental%20Data%20Visualization%20with%20Python.ipynb)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1TUORIC)] Fundamental Data Visualization with Python
 
 ## Applied Data Science
 
-- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Basic%20Feature%20Discovering%20for%20Machine%20Learning)] [[🌎](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Applied%20Data%20Science/Basic%20Feature%20Discovering%20for%20Machine%20Learning/Basic%20Feature%20Discovering%20for%20Machine%20Learning.ipynb)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABFATPYWBWGKN)] Basic Feature Discovering for Machine Learning
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Basic%20Feature%20Discovering%20for%20Machine%20Learning)] [[🔍](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Applied%20Data%20Science/Basic%20Feature%20Discovering%20for%20Machine%20Learning/Basic%20Feature%20Discovering%20for%20Machine%20Learning.ipynb)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABFATPYWBWGKN)] Basic Feature Discovering for Machine Learning
 
-- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20in%20Telco%20Data%20Cleansing)] [[🌎](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20in%20Telco%20Data%20Cleansing/Data%20Science%20in%20Telco%20Data%20Cleansing.ipynb)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABAPL1%20BVFPEI)] Data Science in Telco: Data Cleansing
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20in%20Telco%20Data%20Cleansing)] [[🔍](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20in%20Telco%20Data%20Cleansing/Data%20Science%20in%20Telco%20Data%20Cleansing.ipynb)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL1%20BVFPEI)] Data Science in Telco: Data Cleansing
 
-- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Customer%20Churn%20Prediction%20using%20Machine%20Learning)] [[🌎](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Applied%20Data%20Science/Customer%20Churn%20Prediction%20using%20Machine%20Learning/Customer%20Churn%20Prediction%20using%20Machine%20Learning.ipynb)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABAPL2%20JGNGCK)] Customer Churn Prediction using Machine Learning
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Customer%20Churn%20Prediction%20using%20Machine%20Learning)] [[🔍](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Applied%20Data%20Science/Customer%20Churn%20Prediction%20using%20Machine%20Learning/Customer%20Churn%20Prediction%20using%20Machine%20Learning.ipynb)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL2%20JGNGCK)] Customer Churn Prediction using Machine Learning
 
 <br />
 
@@ -86,7 +86,7 @@
 
 ## Preliminary
 
-- [[🔗](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Preliminary/Fundamental%20SQL%20with%20SELECT%20Statement)] [[❌](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1FLMKIW)] Fundamental SQL with SELECT Statement
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Preliminary/Fundamental%20SQL%20with%20SELECT%20Statement)] [[❌](#)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1FLMKIW)] Fundamental SQL with SELECT Statement
 
 <br />
 
@@ -102,7 +102,7 @@
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Project Machine Learning for Retail with R: Product Packaging
 
-- [[🔗](https://github.com/MyArist/DQLab/tree/master/Project/R/Project%20Data%20Analysis%20for%20Finance%20Performa%20Cabang)] [[🌎](https://rpubs.com/myarist/DQProject_FinancePerformaCabang)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABPRJ8%20BWNISN)] Project Data Analysis for Finance: Performa Cabang
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Project/R/Project%20Data%20Analysis%20for%20Finance%20Performa%20Cabang)] [[🔍](https://rpubs.com/myarist/DQProject_FinancePerformaCabang)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJ8%20BWNISN)] Project Data Analysis for Finance: Performa Cabang
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Project Data Analysis for Finance: Proses Investasi Investor
   
@@ -130,7 +130,7 @@
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Project Data Analysis for Retail: Sales Performance Report
 
-- [[❌](#)] [[❌](#)] [[📋](https://academy.dqlab.id/certificate/pdf/DQLABPRJ10BTTRKO)] Project Data Analysis for B2B Retail: Customer Analytics Report
+- [[❌](#)] [[❌](#)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJ10BTTRKO)] Project Data Analysis for B2B Retail: Customer Analytics Report
 
 <br />
 
