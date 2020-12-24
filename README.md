@@ -94,7 +94,7 @@
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20FUNCTION%20and%20GROUP%20BY)] [[🔍](https://github.com/MyArist/DQLab/blob/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20FUNCTION%20and%20GROUP%20BY/Fundamental%20SQL%20Using%20FUNCTION%20and%20GROUP%20BY.sql)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2GFGROP/)] Fundamental SQL Using FUNCTION and GROUP BY
 
-- [[📂]()] [[🔍]()] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NGUHHK/)] Fundamental SQL Using INNER JOIN and UNION
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION)] [[🔍](https://github.com/MyArist/DQLab/blob/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION/Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION.sql)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NGUHHK/)] Fundamental SQL Using INNER JOIN and UNION
 
 - [[📂]()] [[🔍]()] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABFSQL3PDLJDJ/)] Fundamental SQL Group By and Having
 
