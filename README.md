@@ -136,7 +136,7 @@
 
 ## List of Projects
 
-- [[📂](#)] [[🔍](#)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLTSKCOKDK/)] Data Engineer Challenge with SQL
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Project/SQL/Data%20Engineer%20Challenge%20with%20SQL)] [[🔍](https://github.com/MyArist/DQLab/blob/master/Project/SQL/Data%20Engineer%20Challenge%20with%20SQL/Data%20Engineer%20Challenge%20with%20SQL.sql)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLTSKCOKDK/)] Data Engineer Challenge with SQL
 
 - [[📂](#)] [[🔍](#)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC4RTPCTH/)] Project Data Analysis for Retail: Sales Performance Report
 
