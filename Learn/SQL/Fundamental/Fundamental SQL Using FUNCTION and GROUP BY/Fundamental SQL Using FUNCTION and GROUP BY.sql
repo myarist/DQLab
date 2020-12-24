@@ -189,7 +189,6 @@ FROM
 GROUP BY
     MONTH(order_date);
 
-USE dqlab;
 -- Proyek Pekerjaan - Analisis Penjualan Part 1
 -- 1. Total jumlah seluruh penjualan (total/revenue)
 SELECT
