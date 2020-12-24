@@ -96,7 +96,7 @@
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION)] [[🔍](https://github.com/MyArist/DQLab/blob/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION/Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION.sql)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NGUHHK/)] Fundamental SQL Using INNER JOIN and UNION
 
-- [[📂]()] [[🔍]()] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABFSQL3PDLJDJ/)] Fundamental SQL Group By and Having
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Group%20By%20and%20Having)] [[🔍](https://github.com/MyArist/DQLab/blob/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Group%20By%20and%20Having/Fundamental%20SQL%20Group%20By%20and%20Having.sql)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABFSQL3PDLJDJ/)] Fundamental SQL Group By and Having
 
 <br />
 
@@ -136,11 +136,15 @@
 
 ## List of Projects
 
-- [[❌](#)] [[❌](#)] [[❌](#)] Data Engineer Challenge with SQL
+- [[❌](#)] [[❌](#)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLTSKCOKDK/)] Data Engineer Challenge with SQL
 
-- [[❌](#)] [[❌](#)] [[❌](#)] Project Data Analysis for Retail: Sales Performance Report
+- [[❌](#)] [[❌](#)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC4RTPCTH/)] Project Data Analysis for Retail: Sales Performance Report
 
 - [[❌](#)] [[❌](#)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJ10BTTRKO)] Project Data Analysis for B2B Retail: Customer Analytics Report
+
+- [[❌](#)] [[❌](#)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NBEATA/)] Data Analysis for E-Commerce Challenge
+
+- [[❌](#)] [[❌](#)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPFSQ2DHTHGF/)] Project: Fundamental SQL Group By and Having
 
 <br />
 
