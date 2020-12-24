@@ -86,7 +86,17 @@
 
 ## Preliminary
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Preliminary/Fundamental%20SQL%20with%20SELECT%20Statement)] [[❌](#)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1FLMKIW)] Fundamental SQL with SELECT Statement
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Preliminary/Fundamental%20SQL%20with%20SELECT%20Statement)] [[🔍](https://github.com/MyArist/DQLab/blob/master/Learn/SQL/Preliminary/Fundamental%20SQL%20with%20SELECT%20Statement/Fundamental%20SQL%20with%20SELECT%20Statement.sql)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1FLMKIW)] Fundamental SQL with SELECT Statement
+
+## Fundamental
+
+- [[📂]()] [[🔍]()] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1VPCNOL/)] Fundamental SQL Using SELECT Statement
+
+- [[📂]()] [[🔍]()] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2GFGROP/)] Fundamental SQL Using FUNCTION and GROUP BY
+
+- [[📂]()] [[🔍]()] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NGUHHK/)] Fundamental SQL Using INNER JOIN and UNION
+
+- [[📂]()] [[🔍]()] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABFSQL3PDLJDJ/)] Fundamental SQL Group By and Having
 
 <br />
 
