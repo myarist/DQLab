@@ -32,6 +32,8 @@
   <img src="README/6.png" data-canonical-src="README/6.png" width="70" height="60" align="right"/>
 </div>
 
+# R
+
 ## Preliminary
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/Introduction%20to%20Data%20Science%20with%20R)] [[🔍](https://rpubs.com/myarist/DQSkill_IntroDataScienceR)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSPHOS)] Introduction to Data Science with R
@@ -73,6 +75,8 @@
 <div>
   <img src="README/5.png" data-canonical-src="README/5.png" width="250" height="60" align="right"/>
 </div>
+
+# Python
 
 ## Preliminary
 
@@ -138,6 +142,8 @@
   <img src="README/4.png" data-canonical-src="README/4.png" width="100" height="60" align="right"/>
 </div>
 
+# SQL
+
 ## Preliminary
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Preliminary/Fundamental%20SQL%20with%20SELECT%20Statement)] [[🔍](https://github.com/MyArist/DQLab/blob/master/Learn/SQL/Preliminary/Fundamental%20SQL%20with%20SELECT%20Statement/Fundamental%20SQL%20with%20SELECT%20Statement.sql)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1FLMKIW)] Fundamental SQL with SELECT Statement
@@ -160,7 +166,13 @@
 
 <br />
 
-![R](README/6.png)
+<!-- ![R](README/6.png) -->
+
+<div>
+  <img src="README/6.png" data-canonical-src="README/6.png" width="70" height="60" align="right"/>
+</div>
+
+# R
 
 ## List of Projects
 
@@ -172,7 +184,13 @@
   
 <br />
     
-![Python](README/5.png)
+<!-- ![Python](README/5.png) -->
+
+<div>
+  <img src="README/5.png" data-canonical-src="README/5.png" width="250" height="60" align="right"/>
+</div>
+
+# Python
 
 ## List of Projects
 
@@ -186,7 +204,13 @@
 
 <br />
 
-![SQL](README/4.png)
+<!-- ![SQL](README/4.png) -->
+
+<div>
+  <img src="README/4.png" data-canonical-src="README/4.png" width="100" height="60" align="right"/>
+</div>
+
+# SQL
 
 ## List of Projects
 
