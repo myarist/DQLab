@@ -29,7 +29,7 @@
 <!-- ![R](README/6.png) -->
 
 <div>
-  <img src="README/6.png" data-canonical-src="README/6.png" width="70" height="60" align="right"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" width="70" height="60" align="right"/>
 </div>
 
 # R
@@ -169,7 +169,7 @@
 <!-- ![R](README/6.png) -->
 
 <div>
-  <img src="README/6.png" data-canonical-src="README/6.png" width="70" height="60" align="right"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" width="70" height="60" align="right"/>
 </div>
 
 # R
