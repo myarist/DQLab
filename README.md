@@ -142,9 +142,9 @@
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Project/SQL/Project%20Data%20Analysis%20for%20B2B%20Retail%20Customer%20Analytics%20Report)] [[🔍](https://github.com/MyArist/DQLab/blob/master/Project/SQL/Project%20Data%20Analysis%20for%20B2B%20Retail%20Customer%20Analytics%20Report/Project%20Data%20Analysis%20for%20B2B%20Retail%20Customer%20Analytics%20Report.sql)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJ10BTTRKO)] Project Data Analysis for B2B Retail: Customer Analytics Report
 
-- [[📂](#)] [[🔍](#)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NBEATA/)] Data Analysis for E-Commerce Challenge
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Project/SQL/Data%20Analysis%20for%20E-Commerce%20Challenge)] [[🔍](https://github.com/MyArist/DQLab/blob/master/Project/SQL/Data%20Analysis%20for%20E-Commerce%20Challenge/Data%20Analysis%20for%20E-Commerce%20Challenge.sql)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NBEATA/)] Data Analysis for E-Commerce Challenge
 
-- [[📂](#)] [[🔍](#)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPFSQ2DHTHGF/)] Project: Fundamental SQL Group By and Having
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Project/SQL/Project%20Fundamental%20SQL%20Group%20By%20and%20Having)] [[🔍](https://github.com/MyArist/DQLab/blob/master/Project/SQL/Project%20Fundamental%20SQL%20Group%20By%20and%20Having/Project%20Fundamental%20SQL%20Group%20By%20and%20Having.SQL)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPFSQ2DHTHGF/)] Project: Fundamental SQL Group By and Having
 
 <br />
 
