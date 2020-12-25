@@ -26,7 +26,11 @@
 
 <br />
 
-![R](README/6.png)
+<!-- ![R](README/6.png) -->
+
+<div>
+  <img src="README/6.png" data-canonical-src="README/6.png" width="70" height="60" align="right"/>
+</div>
 
 ## Preliminary
 
@@ -64,7 +68,11 @@
   
 <br />
     
-![Python](README/5.png)
+<!-- ![Python](README/5.png) -->
+
+<div>
+  <img src="README/5.png" data-canonical-src="README/5.png" width="250" height="60" align="right"/>
+</div>
 
 ## Preliminary
 
@@ -124,7 +132,11 @@
 
 <br />
 
-![SQL](README/4.png)
+<!-- ![SQL](README/4.png) -->
+
+<div>
+  <img src="README/4.png" data-canonical-src="README/4.png" width="100" height="60" align="right"/>
+</div>
 
 ## Preliminary
 
