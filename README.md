@@ -36,6 +36,8 @@
 
 ## Fundamental
 
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Preparation in Data Science using R
+
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Statistics%20using%20R%20for%20Data%20Science)] [[🔍](https://rpubs.com/myarist/DQSkill_StatisticsDataScience)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTS1FCCTIJ)] Statistics using R for Data Science
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Data Exploration in Data Science using R
@@ -44,7 +46,7 @@
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Fundamental Data Visualization using R
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Advanced%20Data%20Visualization%20for%20Everyone)] [[🔍](https://rpubs.com/myarist/DQSKill_AdvancedDataVisualization)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL4%20PSAHWV)] Advanced Data Visualization for Everyone
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Advanced%20Data%20Visualization%20for%20Everyone)] [[🔍](https://rpubs.com/myarist/DQSKill_AdvancedDataVisualization)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL4%20PSAHWV)] Advanced Data Visualization with ggplot2 for Everyone
 
 ## Applied Data Science
 
@@ -57,6 +59,8 @@
 - [[❌](#)] [[❌](#)] [[❌](#)] Data Science in Finance: Dimension Reduction
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Analisis%20Data%20COVID19%20di%20Indonesia)] [[🔍](https://rpubs.com/myarist/DQSkill_AnalisisCovid19Indonesia)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL3%20EVHSSM)] Analisis Data COVID19 di Indonesia
+
+- [[❌](#)] [[❌](#)] [[❌](#)] A Walk Into Sensory Science
   
 <br />
     
@@ -64,13 +68,41 @@
 
 ## Preliminary
 
+- [[❌](#)] [[❌](#)] [[❌](#)] Introduction to Data Science with Python
+
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Preliminary/Python%20Fundamental%20for%20Data%20Science)] [[🔍](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Preliminary/Python%20Fundamental%20for%20Data%20Science/Python%20Fundamental%20for%20Data%20Science.ipynb)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1EGGMDW)] Python Fundamental for Data Science
 
 ## Fundamental
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Wrangling%20Python)] [[🔍](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Fundamental/Data%20Wrangling%20Python/Data%20Wrangling%20Python.ipynb)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1HCKQDN)] Data Wrangling Python
 
+- [[❌](#)] [[❌](#)] [[❌](#)] Python for Data Professional Beginner - Part 1
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Python for Data Professional Beginner - Part 2
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Python for Data Professional Beginner - Part 3
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Visualization with Python Matplotlib for Beginner - Part 1
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Exploratory Data Analysis with Python for Beginner
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Visualization with Python Matplotlib for Beginner - Part 2
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Quality with Python for Beginner
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Machine Learning With Python for Beginner
+
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Fundamental%20Data%20Visualization%20with%20Python)] [[🔍](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Fundamental/Fundamental%20Data%20Visualization%20with%20Python/Fundamental%20Data%20Visualization%20with%20Python.ipynb)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1TUORIC)] Fundamental Data Visualization with Python
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Manipulation with Pandas - Part 1
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Manipulation with Pandas - Part 2
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Statistic using Python for Data Science
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Statistic using Python for Data Science - Part 2
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Visualization using Plotnine
 
 ## Applied Data Science
 
@@ -79,6 +111,16 @@
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20in%20Telco%20Data%20Cleansing)] [[🔍](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20in%20Telco%20Data%20Cleansing/Data%20Science%20in%20Telco%20Data%20Cleansing.ipynb)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL1%20BVFPEI)] Data Science in Telco: Data Cleansing
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Customer%20Churn%20Prediction%20using%20Machine%20Learning)] [[🔍](https://colab.research.google.com/github/MyArist/DQLab/blob/master/Learn/Python/Applied%20Data%20Science/Customer%20Churn%20Prediction%20using%20Machine%20Learning/Customer%20Churn%20Prediction%20using%20Machine%20Learning.ipynb)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL2%20JGNGCK)] Customer Churn Prediction using Machine Learning
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Science Project: Analisis Data COVID19 di Dunia & ASEAN
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Analyst Project: Business Decision Research
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Eksplorasi dan Analisis Data COVID-19 Indonesia using Python
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Science in Marketing : Customer Segmentation with Python
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Science in Marketing : Customer Segmentation with Python part 2
 
 <br />
 
@@ -162,11 +204,11 @@
 
 ## Memahami Bahasa SQL dan Sistem Database Relasional agar dapat mengolah data di Perusahaan Yang Sudah Menerapkan Sistem IT
 
-- [[❌](#)] [[❌](#)] [[❌](#)] Fundamental SQL Using SELECT Statement
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20SELECT%20Statement)] [[🔍](https://github.com/MyArist/DQLab/blob/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20SELECT%20Statement/Fundamental%20SQL%20Using%20SELECT%20Statement.sql)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1VPCNOL/)] Fundamental SQL Using SELECT Statement
 
-- [[❌](#)] [[❌](#)] [[❌](#)] Fundamental SQL Using FUNCTION and GROUP BY
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20FUNCTION%20and%20GROUP%20BY)] [[🔍](https://github.com/MyArist/DQLab/blob/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20FUNCTION%20and%20GROUP%20BY/Fundamental%20SQL%20Using%20FUNCTION%20and%20GROUP%20BY.sql)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2GFGROP/)] Fundamental SQL Using FUNCTION and GROUP BY
 
-- [[❌](#)] [[❌](#)] [[❌](#)] Fundamental SQL Using INNER JOIN and UNION
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION)] [[🔍](https://github.com/MyArist/DQLab/blob/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION/Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION.sql)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NGUHHK/)] Fundamental SQL Using INNER JOIN and UNION
 
 ## Memahami Konsep dan Penerapan Exploratory Data Analysis dalam Studi Kasus Bisnis
 
@@ -175,6 +217,26 @@
 ## Mengolah Dataset Dalam Jumlah Kecil sampai dengan Besar
 
 - [[❌](#)] [[❌](#)] [[❌](#)] Data Manipulation with Pandas - Part 1
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Manipulation with Pandas - Part 2
+
+## Memahami Konsep dan Menghasilkan Tipe Visualisasi Data yang Tepat untuk Mempresentasikan Suatu Kasus Bisnis
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Visualization with Python Matplotlib for Beginner - Part 1
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Visualization with Python Matplotlib for Beginner - Part 2
+
+## Memahami Konsep Predictive Modeling & Mampu Menguji Tingkat Akurasi untuk Memilih Model yang Tepat
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Machine Learning With Python for Beginner
+
+## Melakukan Investigasi dan Mendeteksi Anomali pada Data
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Quality with Python for Beginner
+
+## Data Analyst Project: Business Decision Research
+
+- [[❌](#)] [[❌](#)] [[❌](#)] Data Analyst Project: Business Decision Research
 
 <br />
 
