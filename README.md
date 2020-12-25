@@ -26,13 +26,7 @@
 
 <br />
 
-<!-- ![R](README/6.png) -->
-
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" width="70" height="60" align="right"/>
-</div>
-
-# R
+![R](README/6.png)
 
 ## Preliminary
 
@@ -70,13 +64,7 @@
   
 <br />
     
-<!-- ![Python](README/5.png) -->
-
-<div>
-  <img src="README/5.png" data-canonical-src="README/5.png" width="250" height="60" align="right"/>
-</div>
-
-# Python
+![Python](README/5.png)
 
 ## Preliminary
 
@@ -136,13 +124,7 @@
 
 <br />
 
-<!-- ![SQL](README/4.png) -->
-
-<div>
-  <img src="README/4.png" data-canonical-src="README/4.png" width="100" height="60" align="right"/>
-</div>
-
-# SQL
+![SQL](README/4.png)
 
 ## Preliminary
 
@@ -166,13 +148,7 @@
 
 <br />
 
-<!-- ![R](README/6.png) -->
-
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" width="70" height="60" align="right"/>
-</div>
-
-# R
+![R](README/6.png)
 
 ## List of Projects
 
@@ -184,13 +160,7 @@
   
 <br />
     
-<!-- ![Python](README/5.png) -->
-
-<div>
-  <img src="README/5.png" data-canonical-src="README/5.png" width="250" height="60" align="right"/>
-</div>
-
-# Python
+![Python](README/5.png)
 
 ## List of Projects
 
@@ -204,13 +174,7 @@
 
 <br />
 
-<!-- ![SQL](README/4.png) -->
-
-<div>
-  <img src="README/4.png" data-canonical-src="README/4.png" width="100" height="60" align="right"/>
-</div>
-
-# SQL
+![SQL](README/4.png)
 
 ## List of Projects
 
