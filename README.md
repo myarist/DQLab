@@ -140,7 +140,7 @@
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Project/SQL/Project%20Data%20Analysis%20for%20Retail%20Sales%20Performance%20Report)] [[🔍](https://github.com/MyArist/DQLab/blob/master/Project/SQL/Project%20Data%20Analysis%20for%20Retail%20Sales%20Performance%20Report/Project%20Data%20Analysis%20for%20Retail%20Sales%20Performance%20Report.sql)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC4RTPCTH/)] Project Data Analysis for Retail: Sales Performance Report
 
-- [[📂](#)] [[🔍](#)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJ10BTTRKO)] Project Data Analysis for B2B Retail: Customer Analytics Report
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Project/SQL/Project%20Data%20Analysis%20for%20B2B%20Retail%20Customer%20Analytics%20Report)] [[🔍](https://github.com/MyArist/DQLab/blob/master/Project/SQL/Project%20Data%20Analysis%20for%20B2B%20Retail%20Customer%20Analytics%20Report/Project%20Data%20Analysis%20for%20B2B%20Retail%20Customer%20Analytics%20Report.sql)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJ10BTTRKO)] Project Data Analysis for B2B Retail: Customer Analytics Report
 
 - [[📂](#)] [[🔍](#)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NBEATA/)] Data Analysis for E-Commerce Challenge
 
