@@ -36,31 +36,31 @@
 
 ## Fundamental
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/12)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWR1WHPPSC/)] Data Preparation in Data Science using R
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Data%20Preparation%20in%20Data%20Science%20using%20R)] [[🔍](https://academy.dqlab.id/main/package/practice/12)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWR1WHPPSC/)] Data Preparation in Data Science using R
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Statistics%20using%20R%20for%20Data%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/15)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTS1FCCTIJ)] Statistics using R for Data Science
 
 - ~~[[❌](#)] [[❌]()] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWR2MJRQFP/)] Data Exploration in Data Science using R~~
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/2)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTVISNKHPAF/)] Data Visualization in Data Science using R
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Data%20Visualization%20in%20Data%20Science%20using%20R)] [[🔍](https://academy.dqlab.id/main/package/practice/2)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTVISNKHPAF/)] Data Visualization in Data Science using R
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/257)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTR1BMSIUI/)] Fundamental Data Visualization using R
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Fundamental%20Data%20Visualization%20using%20R)] [[🔍](https://academy.dqlab.id/main/package/practice/257)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTR1BMSIUI/)] Fundamental Data Visualization using R
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Advanced%20Data%20Visualization%20for%20Everyone)] [[🔍](https://academy.dqlab.id/main/package/practice/259)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL4%20PSAHWV)] Advanced Data Visualization with ggplot2 for Everyone
 
 ## Applied Data Science
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/81)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLFCRLSGBIB/)] Data Science in Finance: Credit Risk Analysis
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Finance%20Credit%20Risk%20Analysis)] [[🔍](https://academy.dqlab.id/main/package/practice/81)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLFCRLSGBIB/)] Data Science in Finance: Credit Risk Analysis
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/11)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLMBALMHINQ/)] Data Science in Retail: Market Basket Analysis
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Retail%20Market%20Basket%20Analysis)] [[🔍](https://academy.dqlab.id/main/package/practice/11)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLMBALMHINQ/)] Data Science in Retail: Market Basket Analysis
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Marketing%20Customer%20Segmentation)] [[🔍](https://academy.dqlab.id/main/package/practice/7)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLMKTUNNJKU)] Data Science in Marketing: Customer Segmentation
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/89)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPCADRJUIDUE/)] Data Science in Finance: Dimension Reduction
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Finance%20Dimension%20Reduction)] [[🔍](https://academy.dqlab.id/main/package/practice/89)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPCADRJUIDUE/)] Data Science in Finance: Dimension Reduction
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Analisis%20Data%20COVID19%20di%20Indonesia)] [[🔍](https://academy.dqlab.id/main/package/practice/253)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL3%20EVHSSM)] Analisis Data COVID19 di Indonesia
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/281)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDSSR1CUOCJI/)] A Walk Into Sensory Science
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/A%20Walk%20Into%20Sensory%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/281)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDSSR1CUOCJI/)] A Walk Into Sensory Science
   
 <br />
     
@@ -152,11 +152,11 @@
 
 ## List of Projects
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/project/16)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJCTGMBDEV/)] Project Machine Learning for Retail with R: Product Packaging
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Project/R/Project%20Machine%20Learning%20for%20Retail%20with%20R%20Product%20Packaging)] [[🔍](https://academy.dqlab.id/main/package/project/16)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJCTGMBDEV/)] Project Machine Learning for Retail with R: Product Packaging
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Project/R/Project%20Data%20Analysis%20for%20Finance%20Performa%20Cabang)] [[🔍](https://academy.dqlab.id/main/package/project/215)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJ8%20BWNISN)] Project Data Analysis for Finance: Performa Cabang
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/project/245)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC9BNWJUF/)] Project Data Analysis for Finance: Proses Investasi Investor
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Project/R/Project%20Data%20Analysis%20for%20Finance%20Proses%20Investasi%20Investor)] [[🔍](https://academy.dqlab.id/main/package/project/245)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC9BNWJUF/)] Project Data Analysis for Finance: Proses Investasi Investor
   
 <br />
     
