@@ -3,7 +3,7 @@ USE dqlab;
 -- Overall Performance by Year
 SELECT
     YEAR(order_date) AS years,
-    SUM(sales) AS sales,
+    ROUND(SUM(sales), 2) AS sales,
     COUNT(order_quantity) AS number_of_order
 FROM
     dqlab_sales_store

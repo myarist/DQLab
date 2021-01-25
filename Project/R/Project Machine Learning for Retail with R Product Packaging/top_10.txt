@@ -1,0 +1,11 @@
+"","Nama.Produk","Jumlah"
+"1","Shampo Biasa",2075
+"2","Serum Vitamin",1685
+"3","Baju Batik Wanita",1312
+"4","Baju Kemeja Putih",1255
+"5","Celana Jogger Casual",1136
+"6","Cover Koper",1086
+"7","Sepatu Sandal Anak",1062
+"8","Tali Pinggang Gesper Pria",1003
+"9","Sepatu Sport merk Z",888
+"10","Wedges Hitam",849
