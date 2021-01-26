@@ -66,7 +66,7 @@
 
 ## Preliminary
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/162)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1BJTJVQ/)] Introduction to Data Science with Python
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Preliminary/Introduction%20to%20Data%20Science%20with%20Python)] [[🔍](https://academy.dqlab.id/main/package/practice/162)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1BJTJVQ/)] Introduction to Data Science with Python
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Preliminary/Python%20Fundamental%20for%20Data%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/45)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1EGGMDW)] Python Fundamental for Data Science
 
@@ -74,33 +74,33 @@
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Wrangling%20Python)] [[🔍](https://academy.dqlab.id/main/package/practice/79)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1HCKQDN)] Data Wrangling Python
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/157)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1JOGKCL/)] Python for Data Professional Beginner - Part 1
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/157)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1JOGKCL/)] Python for Data Professional Beginner - Part 1
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/160)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1TJEAKE/)] Python for Data Professional Beginner - Part 2
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/160)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1TJEAKE/)] Python for Data Professional Beginner - Part 2
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/161)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1GMBOKW/)] Python for Data Professional Beginner - Part 3
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%203)] [[🔍](https://academy.dqlab.id/main/package/practice/161)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1GMBOKW/)] Python for Data Professional Beginner - Part 3
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/164)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1OERWOT/)] Data Visualization with Python Matplotlib for Beginner - Part 1
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/164)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1OERWOT/)] Data Visualization with Python Matplotlib for Beginner - Part 1
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/163)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1NTJMCJ/)] Exploratory Data Analysis with Python for Beginner
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/163)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1NTJMCJ/)] Exploratory Data Analysis with Python for Beginner
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/165)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1PEOLAL/)] Data Visualization with Python Matplotlib for Beginner - Part 2
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/165)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1PEOLAL/)] Data Visualization with Python Matplotlib for Beginner - Part 2
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/166)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2AUUCMW/)] Data Quality with Python for Beginner
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Quality%20with%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/166)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2AUUCMW/)] Data Quality with Python for Beginner
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/169)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2ODOJPA/)] Machine Learning With Python for Beginner
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Machine%20Learning%20With%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/169)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2ODOJPA/)] Machine Learning With Python for Beginner
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Fundamental%20Data%20Visualization%20with%20Python)] [[🔍](https://academy.dqlab.id/main/package/practice/177)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1TUORIC)] Fundamental Data Visualization with Python
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/178)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KCGLNG/)] Data Manipulation with Pandas - Part 1
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Manipulation%20with%20Pandas%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/178)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KCGLNG/)] Data Manipulation with Pandas - Part 1
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/252)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1FGMHKR/)] Data Manipulation with Pandas - Part 2
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Manipulation%20with%20Pandas%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/252)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1FGMHKR/)] Data Manipulation with Pandas - Part 2
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/288)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSWP1%20ELVIKP/)] Statistic using Python for Data Science
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Statistic%20using%20Python%20for%20Data%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/288)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSWP1%20ELVIKP/)] Statistic using Python for Data Science
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/290)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSWP1%20FKRWOF/)] Statistic using Python for Data Science - Part 2
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Statistic%20using%20Python%20for%20Data%20Science%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/290)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSWP1%20FKRWOF/)] Statistic using Python for Data Science - Part 2
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/295)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVPP9FAWBWF/)] Data Visualization using Plotnine
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Visualization%20using%20Plotnine)] [[🔍](https://academy.dqlab.id/main/package/practice/295)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVPP9FAWBWF/)] Data Visualization using Plotnine
 
 ## Applied Data Science
 
@@ -110,15 +110,15 @@
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Customer%20Churn%20Prediction%20using%20Machine%20Learning)] [[🔍](https://academy.dqlab.id/main/package/practice/249)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL2%20JGNGCK)] Customer Churn Prediction using Machine Learning
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/260)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1BAIQSQ/)] Data Science Project: Analisis Data COVID19 di Dunia & ASEAN
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20Project%20Analisis%20Data%20COVID19%20di%20Dunia%20%26%20ASEAN)] [[🔍](https://academy.dqlab.id/main/package/practice/260)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1BAIQSQ/)] Data Science Project: Analisis Data COVID19 di Dunia & ASEAN
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/284)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2AEGGHH/)] Data Analyst Project: Business Decision Research
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Analyst%20Project%20Business%20Decision%20Research)] [[🔍](https://academy.dqlab.id/main/package/practice/284)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2AEGGHH/)] Data Analyst Project: Business Decision Research
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/287)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABACWP1OSMEUO/)] Eksplorasi dan Analisis Data COVID-19 Indonesia using Python
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Eksplorasi%20dan%20Analisis%20Data%20COVID-19%20Indonesia%20using%20Python)] [[🔍](https://academy.dqlab.id/main/package/practice/287)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABACWP1OSMEUO/)] Eksplorasi dan Analisis Data COVID-19 Indonesia using Python
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/293)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDSCS1VGTGPJ/)] Data Science in Marketing : Customer Segmentation with Python
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20in%20Marketing%20%20Customer%20Segmentation%20with%20Python)] [[🔍](https://academy.dqlab.id/main/package/practice/293)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDSCS1VGTGPJ/)] Data Science in Marketing : Customer Segmentation with Python
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/294)] [[📃](ttps://academy.dqlab.id/certificate/pdf/DQLABDSCS1TNUNDC/)] Data Science in Marketing : Customer Segmentation with Python part 2
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20in%20Marketing%20%20Customer%20Segmentation%20with%20Python%20part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/294)] [[📃](ttps://academy.dqlab.id/certificate/pdf/DQLABDSCS1TNUNDC/)] Data Science in Marketing : Customer Segmentation with Python part 2
 
 <br />
 
@@ -166,7 +166,7 @@
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Project/Python/Data%20Engineer%20Challenge%20with%20Python)] [[🔍](https://academy.dqlab.id/main/package/project/170)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC3FKRGTH/)] Data Engineer Challenge with Python
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Project/Python/Project%20Machine%20Learning%20with%20Python%20Building%20Recommender%20System] [[🔍](https://academy.dqlab.id/main/package/project/212)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC5HJDJDN/)] Project Machine Learning with Python: Building Recommender System
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Project/Python/Project%20Machine%20Learning%20with%20Python%20Building%20Recommender%20System)] [[🔍](https://academy.dqlab.id/main/package/project/212)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC5HJDJDN/)] Project Machine Learning with Python: Building Recommender System
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Project/Python/Project%20Machine%20Learning%20with%20Python%20Building%20Recommender%20System%20with%20Similarity%20Function)] [[🔍](https://academy.dqlab.id/main/package/project/214)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC6RDCMTH)] Project Machine Learning with Python: Building Recommender System with Similarity Function
 
@@ -196,11 +196,11 @@
 
 ### Memahami Bahasa Pemrograman Fundamental
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/157)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1JOGKCL/)] Python for Data Professional Beginner - Part 1
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/157)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1JOGKCL/)] Python for Data Professional Beginner - Part 1
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/160)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1TJEAKE/)] Python for Data Professional Beginner - Part 2
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/160)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1TJEAKE/)] Python for Data Professional Beginner - Part 2
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/161)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1GMBOKW/)] Python for Data Professional Beginner - Part 3
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%203)] [[🔍](https://academy.dqlab.id/main/package/practice/161)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1GMBOKW/)] Python for Data Professional Beginner - Part 3
 
 ### Memahami Bahasa SQL dan Sistem Database Relasional agar dapat mengolah data di Perusahaan Yang Sudah Menerapkan Sistem IT
 
@@ -212,31 +212,31 @@
 
 ### Memahami Konsep dan Penerapan Exploratory Data Analysis dalam Studi Kasus Bisnis
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/163)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1NTJMCJ/)] Exploratory Data Analysis with Python for Beginner
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/163)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1NTJMCJ/)] Exploratory Data Analysis with Python for Beginner
 
 ### Mengolah Dataset Dalam Jumlah Kecil sampai dengan Besar
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/178)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KCGLNG/)] Data Manipulation with Pandas - Part 1
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Manipulation%20with%20Pandas%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/178)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KCGLNG/)] Data Manipulation with Pandas - Part 1
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/252)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1FGMHKR/)] Data Manipulation with Pandas - Part 2
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Manipulation%20with%20Pandas%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/252)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1FGMHKR/)] Data Manipulation with Pandas - Part 2
 
 ### Memahami Konsep dan Menghasilkan Tipe Visualisasi Data yang Tepat untuk Mempresentasikan Suatu Kasus Bisnis
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/164)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1OERWOT/)] Data Visualization with Python Matplotlib for Beginner - Part 1
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/164)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1OERWOT/)] Data Visualization with Python Matplotlib for Beginner - Part 1
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/165)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1PEOLAL/)] Data Visualization with Python Matplotlib for Beginner - Part 2
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/165)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1PEOLAL/)] Data Visualization with Python Matplotlib for Beginner - Part 2
 
 ### Memahami Konsep Predictive Modeling & Mampu Menguji Tingkat Akurasi untuk Memilih Model yang Tepat
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/169)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2ODOJPA/)] Machine Learning With Python for Beginner
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Machine%20Learning%20With%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/169)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2ODOJPA/)] Machine Learning With Python for Beginner
 
 ### Melakukan Investigasi dan Mendeteksi Anomali pada Data
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/166)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2AUUCMW/)] Data Quality with Python for Beginner
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Quality%20with%20Python%20for%20Beginner)] [[🔍](https://academy.dqlab.id/main/package/practice/166)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2AUUCMW/)] Data Quality with Python for Beginner
 
 ### Data Analyst Project: Business Decision Research
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/practice/284)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2AEGGHH/)] Data Analyst Project: Business Decision Research
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Analyst%20Project%20Business%20Decision%20Research)] [[🔍](https://academy.dqlab.id/main/package/practice/284)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2AEGGHH/)] Data Analyst Project: Business Decision Research
 
 <br />
 
