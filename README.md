@@ -40,8 +40,6 @@
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Statistics%20using%20R%20for%20Data%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/15)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTS1FCCTIJ)] Statistics using R for Data Science
 
-- ~~[[❌](#)] [[❌]()] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWR2MJRQFP/)] Data Exploration in Data Science using R~~
-
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Data%20Visualization%20in%20Data%20Science%20using%20R)] [[🔍](https://academy.dqlab.id/main/package/practice/2)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTVISNKHPAF/)] Data Visualization in Data Science using R
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Fundamental%20Data%20Visualization%20using%20R)] [[🔍](https://academy.dqlab.id/main/package/practice/257)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTR1BMSIUI/)] Fundamental Data Visualization using R
