@@ -162,13 +162,13 @@
 
 ## List of Projects
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/project/158)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC2JCPTWE/)] Data Science Challenge with Python
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Project/Python/Data%20Science%20Challenge%20with%20Python)] [[🔍](https://academy.dqlab.id/main/package/project/158)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC2JCPTWE/)] Data Science Challenge with Python
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/project/170)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC3FKRGTH/)] Data Engineer Challenge with Python
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Project/Python/Data%20Engineer%20Challenge%20with%20Python)] [[🔍](https://academy.dqlab.id/main/package/project/170)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC3FKRGTH/)] Data Engineer Challenge with Python
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/project/212)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC5HJDJDN/)] Project Machine Learning with Python: Building Recommender System
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Project/Python/Project%20Machine%20Learning%20with%20Python%20Building%20Recommender%20System] [[🔍](https://academy.dqlab.id/main/package/project/212)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC5HJDJDN/)] Project Machine Learning with Python: Building Recommender System
 
-- [[❌](#)] [[🔍](https://academy.dqlab.id/main/package/project/214)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC6RDCMTH)] Project Machine Learning with Python: Building Recommender System with Similarity Function
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Project/Python/Project%20Machine%20Learning%20with%20Python%20Building%20Recommender%20System%20with%20Similarity%20Function)] [[🔍](https://academy.dqlab.id/main/package/project/214)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC6RDCMTH)] Project Machine Learning with Python: Building Recommender System with Similarity Function
 
 <br />
 
