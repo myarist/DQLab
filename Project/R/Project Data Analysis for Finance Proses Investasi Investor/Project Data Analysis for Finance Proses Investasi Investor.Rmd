@@ -52,11 +52,11 @@ df_marketplace
 library(dplyr)
 
 df_view_loan <- df_event %>% 
-					filter(nama_event == 'investor_view_loan') %>% 
-					group_by(loan_id, investor_id) %>% 
-					summarise(jumlah_view = n(), 
-							  pertama_view = min(created_at), 
-							  terakhir_view = max(created_at))
+	filter(nama_event == 'investor_view_loan') %>% 
+	group_by(loan_id, investor_id) %>% 
+	summarise(jumlah_view = n(), 
+			pertama_view = min(created_at), 
+			terakhir_view = max(created_at))
 df_view_loan
 ```
 
@@ -67,12 +67,12 @@ library(dplyr)
 library(tidyr)
 
 df_order_pay <- df_event %>%
-					filter(nama_event %in% c('investor_order_loan', 'investor_pay_loan')) %>%
-					spread(nama_event, created_at) %>%
-					select(loan_id, 
-  						   investor_id, 
-  						   order = investor_order_loan, 
-  						   pay = investor_pay_loan)
+		filter(nama_event %in% c('investor_order_loan', 'investor_pay_loan')) %>%
+		spread(nama_event, created_at) %>%
+		select(loan_id, 
+  				investor_id, 
+  				order = investor_order_loan, 
+  				pay = investor_pay_loan)
 df_order_pay
 ```
 
@@ -82,8 +82,8 @@ df_order_pay
 library(dplyr)
 
 df_loan_invest <- df_marketplace %>% 
-					left_join(df_view_loan, by = 'loan_id') %>% 
-					left_join(df_order_pay, by = c('loan_id','investor_id'))
+			left_join(df_view_loan, by = 'loan_id') %>% 
+			left_join(df_order_pay, by = c('loan_id','investor_id'))
 df_loan_invest
 ```
 
