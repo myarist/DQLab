@@ -1,0 +1,178 @@
+# [Membaca Dataset dengan read.csv](https://academy.dqlab.id/main/livecode/15/84/474)
+
+
+# Membaca dataset dengan read.csv dan dimasukkan ke variable data_intro
+data_intro <- read.csv("https://academy.dqlab.id/dataset/data_intro.csv", sep=";")
+data_intro
+
+
+# [Melihat Tipe Data dengan Str](https://academy.dqlab.id/main/livecode/15/84/475)
+
+
+# Membaca dataset dengan read.csv dan dimasukkan ke variable data_intro
+data_intro <- read.csv("https://academy.dqlab.id/dataset/data_intro.csv", sep=";")
+str(data_intro)
+
+
+# [Merubah Tipe Data Kolom ID.Pelanggan menjadi Character](https://academy.dqlab.id/main/livecode/15/84/476)
+
+
+# mengubah data menjadi karakter karena tidak dilakukan analisis statistik pada variabel ID Pelanggan dan nama
+data_intro$ID.Pelanggan <- as.character(data_intro$ID.Pelanggan)
+data_intro$Nama <- as.character(data_intro$Nama)
+
+# melihat apakah sudah berhasil dalam mengubah variabel tersebut
+str(data_intro$ID.Pelanggan)
+str(data_intro$Nama)
+
+
+# [Merubah Sejumlah Kolom menjadi Data Kategorik (Factor)](https://academy.dqlab.id/main/livecode/15/84/477)
+
+
+# Mengubah data menjadi factor untuk membedakan data kualitatif dengan menggunakan functon as.factor
+data_intro$Jenis.Kelamin <- as.factor(data_intro$Jenis.Kelamin)
+data_intro$Produk <- as.factor(data_intro$Produk)
+data_intro$Tingkat.Kepuasan <- as.factor(data_intro$Tingkat.Kepuasan)
+
+# Melihat apakah sudah berhasil dalam mengubah variabel tersebut dengan menggunakan function str
+str(data_intro$Jenis.Kelamin)
+str(data_intro$Produk)
+str(data_intro$Tingkat.Kepuasan)
+
+
+# [Skala Pengukuran Data](https://academy.dqlab.id/main/livecode/15/84/479)
+
+
+# melihat data/ pemanggilan data
+data_intro
+
+# melihat tipe data
+str(data_intro)
+
+
+# [Estimasi Nilai Statistik Modus](https://academy.dqlab.id/main/livecode/15/84/481)
+
+
+library(pracma)
+
+## carilah modus untuk kolom Produk pada variable data_intro
+Mode(data_intro$Produk)
+
+## carilah modus untuk kolom Tingkat.Kepuasan pada variable data_intro
+Mode(data_intro$Tingkat.Kepuasan)
+
+
+# [Estimasi Nilai Statistik Median](https://academy.dqlab.id/main/livecode/15/84/482)
+
+
+# carilah median untuk kolom Pendapatan dari variable data_intro
+median(data_intro$Pendapatan) 
+
+# carilah median untuk  kolom Harga dari variable data_intro
+median(data_intro$Harga) 
+
+# carilah median untuk kolom Jumlah dari variable data_intro
+median(data_intro$Jumlah) 
+
+# carilah median untuk  kolom Total dari variable data_intro
+median(data_intro$Total) 
+
+
+# [Estimasi Nilai Statistik Rata-Rata]
+
+
+# carilah mean untuk kolom Pendapatan pada variable data_intro
+mean(data_intro$Pendapatan)
+
+# carilah mean untuk kolom Harga pada variable data_intro
+mean(data_intro$harga)
+
+# carilah mean untuk kolom Jumlah pada variable data_intro
+mean(data_intro$Jumlah)
+
+# carilah mean untuk kolom Total pada variable data_intro
+mean(data_intro$Total)
+
+
+# [Estimasi Nilai Sebaran Data Range](https://academy.dqlab.id/main/livecode/15/84/486)
+
+
+max(data_intro["Pendapatan"]) - min(data_intro["Pendapatan"])
+
+
+# [Estimasi Nilai Sebaran Data Varians](https://academy.dqlab.id/main/livecode/15/84/487)
+
+
+# Carilah varians untuk kolom Pendapatan dari variable data_intro
+var(data_intro$Pendapatan)
+
+
+# [Estimasi Nilai Sebaran Data Simpangan Baku](https://academy.dqlab.id/main/livecode/15/84/488)
+
+
+sd(data_intro$Pendapatan)
+
+
+# [Analisis Deskriptif Menggunakan Nilai Statistik](https://academy.dqlab.id/main/livecode/15/85/491)
+
+
+# carilah summary data dari data_intro
+summary(data_intro)
+
+
+# [Analisis Deskriptif Menggunakan Visualisasi](https://academy.dqlab.id/main/livecode/15/85/492)
+
+
+# Carilah sebaran data kolom Jenis.Kelamin dari variable data_intro
+plot(data_intro$Jenis.Kelamin)
+
+# Carilah sebaran data dari Pendapatan dari variable data_intro
+hist(data_intro$Pendapatan)
+
+# Carilah sebaran data dari Produk dari variable data_intro
+plot(data_intro$Produk)
+
+# Carilah sebaran data dari Harga dari variable data_intro
+hist(data_intro$Harga)
+
+# Carilah sebaran data dari Jumlah dari variable data_intro
+hist(data_intro$Jumlah)
+
+# Carilah sebaran data dari Total dari variable data_intro
+hist(data_intro$Total)
+
+# Carilah sebaran data dari Tingkat.Kepuasan dari variable data_intro
+plot(data_intro$Tingkat.Kepuasan)
+
+
+# [Scatter Plot](https://academy.dqlab.id/main/livecode/15/85/500)
+
+
+plot(data_intro$Pendapatan,data_intro$Total)
+
+
+# [Hubungan Pendapatan dengan Total Belanja dengan cor.test](https://academy.dqlab.id/main/livecode/15/85/501)
+
+
+# Gunakan cor.test untuk mencari hubungan Pendapatan dengan Total Belanja 
+cor.test(data_intro$Pendapatan, data_intro$Total)
+
+
+# [Hubungan Produk dengan Tingkat Kepuasan dengan chisq.test](https://academy.dqlab.id/main/livecode/15/85/503)
+
+
+table(data_intro$Produk, data_intro$Tingkat.Kepuasan)
+
+# Analisis bagaimana hubungan jenis produk dengan tingkat kepuasan mengunakan uji korelasi
+chisq.test(table(data_intro$Produk, data_intro$Tingkat.Kepuasan))
+
+
+# [Hubungan Jenis Kelamin dengan Total Belanja dengan t.test](https://academy.dqlab.id/main/livecode/15/85/505)
+
+
+# carilah boxplot antara variabel jenis kelamin dengan total belanja
+boxplot(Total~Jenis.Kelamin, data = data_intro)
+
+# Analisis bagaimana hubungan jenis kelamin dengan total belanja mengunakan uji statistik t-test
+t.test(Total~Jenis.Kelamin, data = data_intro)
+
