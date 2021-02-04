@@ -8,7 +8,6 @@ knitr::opts_chunk$set(echo = TRUE, comment = "", message = F, warning = F)
 ```
 
 # [Contoh | Langkah 1: Standarisasi Data](https://academy.dqlab.id/main/livecode/89/173/839)
-
 ```{r}
 library(openxlsx)
 
@@ -20,7 +19,6 @@ head(df, 3)
 ```
 
 # [Contoh | Langkah 2: Menghitung Matrik Korelasi Data](https://academy.dqlab.id/main/livecode/89/173/840)
-
 ```{r}
 library(openxlsx)
 
@@ -32,7 +30,6 @@ cormat
 ```
 
 # [Contoh | Langkah 3: Menghitung Nilai Eigen dan Vektor Eigen](https://academy.dqlab.id/main/livecode/89/173/841)
-
 ```{r}
 library(openxlsx)
 
@@ -46,7 +43,6 @@ eig
 ```
 
 # [Contoh | Langkah 4: Memilih Banyaknya Principal Component](https://academy.dqlab.id/main/livecode/89/173/842)
-
 ```{r}
 library(openxlsx)
 
@@ -72,7 +68,6 @@ abline(h = 1, lty = 3, col = "red")
 ```
 
 # [Contoh | Langkah 5: Visualisasi dengan Biplot](https://academy.dqlab.id/main/livecode/89/173/843)
-
 ```{r}
 library(openxlsx)
 
@@ -86,7 +81,6 @@ biplot(pr.out, scale = 0)
 ```
 
 # [Contoh | Langkah 6: Menghitung Skor Baru](https://academy.dqlab.id/main/livecode/89/173/844)
-
 ```{r}
 library(openxlsx)
 
@@ -102,7 +96,6 @@ df_new[1:6,1:2]
 ```
 
 # [Tugas Praktik](https://academy.dqlab.id/main/livecode/89/173/845)
-
 ```{r}
 # Panggil library openxlsx untuk membaca file data Excel
 library(openxlsx)
@@ -141,7 +134,6 @@ biplot(pr.out, scale = 0)
 ```
 
 # [Tugas Praktik: 4 Variabel](https://academy.dqlab.id/main/livecode/89/174/852)
-
 ```{r}
 # Panggil library openxlsx untuk membaca file data Excel
 # [1]
@@ -252,7 +244,6 @@ biplot(pr.out, scale = 0) # draw first 2 principal components
 ```
 
 # [Tugas Praktik: 8 Variabel](https://academy.dqlab.id/main/livecode/89/175/859)
-
 ```{r}
 # Panggil library openxlsx untuk membaca file data Excel
 library(openxlsx)
@@ -366,7 +357,6 @@ fviz_pca_ind(pr.out, label="none", habillage=cslarge_train$riskrating)
 ```
 
 # [Contoh](https://academy.dqlab.id/main/livecode/89/179/874)
-
 ```{r}
 (A <- as.matrix(data.frame(c(1,0,1),c(0,1,1),c(1,1,0))))
 e <- eigen(A)
@@ -375,7 +365,6 @@ e
 ```
 
 # [Tugas Praktik](https://academy.dqlab.id/main/livecode/89/179/875)
-
 ```{r}
 # Ketik perintah berikut ini untuk membaca help tentang matriks
 ?matrix
