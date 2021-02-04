@@ -15,7 +15,7 @@ library(readr)
 chocolates <- 
   read_csv(
     "https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/chocolates.csv",
-    col_types = cols(
+      col_types = cols(
       panelist = col_factor(),
       session = col_factor(),
       rank = col_factor(),
