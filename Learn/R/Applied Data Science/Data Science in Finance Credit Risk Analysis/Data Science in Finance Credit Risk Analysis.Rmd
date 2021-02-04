@@ -467,6 +467,7 @@ risk_rating_model <- C5.0(input_training_set, class_training_set)
 # Membuat data frame aplikasi baru
 aplikasi_baru <- data.frame(jumlah_tanggungan = 6, durasi_pinjaman_bulan = 64 )
 
+
 # melakukan prediksi
 predict(risk_rating_model, aplikasi_baru)
 ```
