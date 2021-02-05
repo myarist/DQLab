@@ -11,6 +11,7 @@ GROUP BY
 HAVING
     sum(pinalty) > 0;
 
+
 -- Mencari customer yang mengganti layanan
 SELECT
     t1.name,
