@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE, comment = "", message = F, warning = F)
 library(arules)
 
 transaksi_tabular <- read.transactions(file="transaksi_dqlab_retail.tsv", 
-                                       format="single", sep="\t", cols=c(1,2), skip=1)
+                    format="single", sep="\t", cols=c(1,2), skip=1)
 write(transaksi_tabular, file="test_project_retail_1.txt", sep=",")
 ```
 
@@ -23,7 +23,7 @@ write(transaksi_tabular, file="test_project_retail_1.txt", sep=",")
 library(arules)
 
 data <- read.transactions(file = "transaksi_dqlab_retail.tsv", 
-                          format = "single", sep = "\t", cols = c(1,2), skip = 1)
+       format = "single", sep = "\t", cols = c(1,2), skip = 1)
 top_10 <- sort(itemFrequency(data, type="absolute"), decreasing = TRUE)[1:10]
 hasil <- data.frame("Nama Produk" = names(top_10), "Jumlah" = top_10, row.names = NULL)
 write.csv(hasil, file="top_10.txt")
