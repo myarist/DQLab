@@ -1,7 +1,7 @@
 <br />
 
 <p align="center">
-  <img src="README/DQ_Lab2.png">
+  <a href='https://academy.dqlab.id/main/learn_more'><img src="README/DQ_Lab2.png"></a>
 </p>
 
 <br />
