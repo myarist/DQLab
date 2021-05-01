@@ -27,7 +27,7 @@
 <!-- # Learn -->
 
 <div style="text-align:center">
-  <h1>Learn</h1>
+  <h1>Skill Track</h1>
 </div>
 
 ![Learn](README/Learn.jpg)
@@ -86,7 +86,7 @@
 
 </details>
 
-<br />
+<!-- <br /> -->
     
 <!-- ![Python](README/5.png) -->
 
@@ -164,7 +164,7 @@
 
 </details>
 
-<br />
+<!-- <br /> -->
 
 <!-- ![SQL](README/4.png) -->
 
@@ -218,7 +218,7 @@
 
 </details>
 
-<br />
+<!-- <br /> -->
     
 <!-- ![Python](README/5.png) -->
 
@@ -236,7 +236,7 @@
 
 </details>
 
-<br />
+<!-- <br /> -->
 
 <!-- ![SQL](README/4.png) -->
 
