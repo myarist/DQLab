@@ -24,17 +24,25 @@
 
 ![Learn](README/Learn.jpg)
 
-<br />
+<!-- <br /> -->
 
-![R](README/6.png)
+<!-- ![R](README/6.png) -->
 
-## Preliminary
+# Materi R <a href='README/6.png'><img src='README/6.png' align="right" height="40" /></a>
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/Introduction%20to%20Data%20Science%20with%20R)] [[🔍](https://academy.dqlab.id/main/package/practice/111)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSPHOS)] Introduction to Data Science with R
+<details><summary>Daftar Modul</summary>
+<br>
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/R%20Fundamental%20for%20Data%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/1)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTR1CLGENH)] R Fundamental for Data Science
 
++ [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/R%20Fundamental%20for%20Data%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/1)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTR1CLGENH)] R Fundamental for Data Science
+
+</details>
+
 ## Fundamental
+
+<details><summary>Daftar Modul</summary>
+<br>
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Data%20Preparation%20in%20Data%20Science%20using%20R)] [[🔍](https://academy.dqlab.id/main/package/practice/12)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWR1WHPPSC/)] Data Preparation in Data Science using R
 
@@ -46,7 +54,12 @@
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Advanced%20Data%20Visualization%20for%20Everyone)] [[🔍](https://academy.dqlab.id/main/package/practice/259)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL4%20PSAHWV)] Advanced Data Visualization with ggplot2 for Everyone
 
+</details>
+
 ## Applied Data Science
+
+<details><summary>Daftar Modul</summary>
+<br>
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Finance%20Credit%20Risk%20Analysis)] [[🔍](https://academy.dqlab.id/main/package/practice/81)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLFCRLSGBIB/)] Data Science in Finance: Credit Risk Analysis
 
@@ -62,15 +75,23 @@
   
 <br />
     
-![Python](README/5.png)
+<!-- ![Python](README/5.png) -->
 
-## Preliminary
+# Materi Python <a href='README/5.1.png'><img src='README/5.1.png' align="right" height="45" /></a>
+
+<details><summary>Daftar Modul</summary>
+<br>
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Preliminary/Introduction%20to%20Data%20Science%20with%20Python)] [[🔍](https://academy.dqlab.id/main/package/practice/162)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1BJTJVQ/)] Introduction to Data Science with Python
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Preliminary/Python%20Fundamental%20for%20Data%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/45)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1EGGMDW)] Python Fundamental for Data Science
 
+</details>
+
 ## Fundamental
+
+<details><summary>Daftar Modul</summary>
+<br>
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Wrangling%20Python)] [[🔍](https://academy.dqlab.id/main/package/practice/79)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1HCKQDN)] Data Wrangling Python
 
@@ -102,7 +123,12 @@
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Visualization%20using%20Plotnine)] [[🔍](https://academy.dqlab.id/main/package/practice/295)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVPP9FAWBWF/)] Data Visualization using Plotnine
 
+</details>
+
 ## Applied Data Science
+
+<details><summary>Daftar Modul</summary>
+<br>
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Basic%20Feature%20Discovering%20for%20Machine%20Learning)] [[🔍](https://academy.dqlab.id/main/package/practice/179)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABFATPYWBWGKN)] Basic Feature Discovering for Machine Learning
 
@@ -122,13 +148,21 @@
 
 <br />
 
-![SQL](README/4.png)
+<!-- ![SQL](README/4.png) -->
 
-## Preliminary
+# Materi SQL <a href='README/4.1.png'><img src='README/4.1.png' align="right" height="45" /></a>
+
+<details><summary>Daftar Modul</summary>
+<br>
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Preliminary/Fundamental%20SQL%20with%20SELECT%20Statement)] [[🔍](https://academy.dqlab.id/main/package/practice/91)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1FLMKIW)] Fundamental SQL with SELECT Statement
 
+</details>
+
 ## Fundamental
+
+<details><summary>Daftar Modul</summary>
+<br>
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20SELECT%20Statement)] [[🔍](https://academy.dqlab.id/main/package/practice/213)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1VPCNOL/)] Fundamental SQL Using SELECT Statement
 
