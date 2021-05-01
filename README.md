@@ -266,7 +266,7 @@
 
 ![Career](README/Career.jpg)
 
-Data Analyst Career Track (Python) # [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)] [[🔍](https://academy.dqlab.id/main/track/67)] <a href='README\analytics2.png'><img src='README\analytics2.png' align="right" height="45" /></a>
+# Data Analyst Career Track (Python) [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)] [[🔍](https://academy.dqlab.id/main/track/67)] <a href='README\analytics2.png'><img src='README\analytics2.png' align="right" height="45" /></a>
 
 <details>
 <summary>Memahami Bahasa Pemrograman Fundamental</summary>
