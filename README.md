@@ -34,11 +34,11 @@
 
 <!-- ![R](README/6.png) -->
 
-# Materi R <a href='README/6.png'><img src='README/6.png' align="right" height="40" /></a>
+## Materi R <a href='README/6.png'><img src='README/6.png' align="right" height="40" /></a>
 
 <details><summary>Daftar Kelas</summary>
 
-## Kelas Persiapan
+### Kelas Persiapan
 
 <details><summary>Daftar Modul</summary>
 
@@ -48,7 +48,7 @@
 
 </details>
 
-## Kelas Fundamental
+### Kelas Fundamental
 
 <details><summary>Daftar Modul</summary>
 
@@ -64,7 +64,7 @@
 
 </details>
 
-## Kelas Penerapan di Industri
+### Kelas Penerapan di Industri
 
 <details><summary>Daftar Modul</summary>
 
@@ -88,11 +88,11 @@
     
 <!-- ![Python](README/5.png) -->
 
-# Materi Python <a href='README/5.1.png'><img src='README/5.1.png' align="right" height="45" /></a>
+## Materi Python <a href='README/5.1.png'><img src='README/5.1.png' align="right" height="45" /></a>
 
 <details><summary>Daftar Kelas</summary>
 
-## Kelas Persiapan
+### Kelas Persiapan
 
 <details><summary>Daftar Modul</summary>
 
@@ -102,7 +102,7 @@
 
 </details>
 
-## Kelas Fundamental
+### Kelas Fundamental
 
 <details><summary>Daftar Modul</summary>
 
@@ -138,7 +138,7 @@
 
 </details>
 
-## Kelas Penerapan di Industri
+### Kelas Penerapan di Industri
 
 <details><summary>Daftar Modul</summary>
 
@@ -166,11 +166,11 @@
 
 <!-- ![SQL](README/4.png) -->
 
-# Materi SQL <a href='README/4.2.png'><img src='README/4.2.png' align="right" height="40" /></a>
+## Materi SQL <a href='README/4.2.png'><img src='README/4.2.png' align="right" height="40" /></a>
 
 <details><summary>Daftar Kelas</summary>
 
-## Kelas Persiapan
+### Kelas Persiapan
 
 <details><summary>Daftar Modul</summary>
 
@@ -178,7 +178,7 @@
 
 </details>
 
-## Kelas Fundamental
+### Kelas Fundamental
 
 <details><summary>Daftar Modul</summary>
 
@@ -202,7 +202,7 @@
 
 ![Project](README/Project.jpg)
 
-# Project R <a href='README/6.png'><img src='README/6.png' align="right" height="45" /></a>
+## Project R <a href='README/6.png'><img src='README/6.png' align="right" height="45" /></a>
 
 <details><summary>Daftar Project</summary>
 
@@ -222,7 +222,7 @@
     
 <!-- ![Python](README/5.png) -->
 
-# Project Python <a href='README/5.1.png'><img src='README/5.1.png' align="right" height="45" /></a>
+## Project Python <a href='README/5.1.png'><img src='README/5.1.png' align="right" height="45" /></a>
 
 <details><summary>Daftar Project</summary>
 
@@ -242,7 +242,7 @@
 
 <!-- ![SQL](README/4.png) -->
 
-# Project SQL <a href='README/4.2.png'><img src='README/4.2.png' align="right" height="40" /></a>
+## Project SQL <a href='README/4.2.png'><img src='README/4.2.png' align="right" height="40" /></a>
 
 <details><summary>Daftar Project</summary>
 
@@ -266,7 +266,7 @@
 
 ![Career](README/Career.jpg)
 
-# Data Analyst Career Track (Python) [[🔍](https://academy.dqlab.id/main/track/67)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)] <a href='README\analytics2.png'><img src='README\analytics2.png' align="right" height="45" /></a>
+## Data Analyst Career Track (Python) [[🔍](https://academy.dqlab.id/main/track/67)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)] <a href='README\analytics2.png'><img src='README\analytics2.png' align="right" height="45" /></a>
 
 <details>
 <summary>Memahami Bahasa Pemrograman Fundamental</summary>
