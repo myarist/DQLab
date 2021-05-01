@@ -166,7 +166,7 @@
 
 <!-- ![SQL](README/4.png) -->
 
-# Materi SQL <a href='README/4.1.png'><img src='README/4.1.png' align="right" height="45" /></a>
+# Materi SQL <a href='README/4.2.png'><img src='README/4.2.png' align="right" height="40" /></a>
 
 <details><summary>Daftar Kelas</summary>
 
@@ -236,7 +236,7 @@
 
 <!-- ![SQL](README/4.png) -->
 
-# Project SQL <a href='README/4.1.png'><img src='README/4.1.png' align="right" height="45" /></a>
+# Project SQL <a href='README/4.2.png'><img src='README/4.2.png' align="right" height="40" /></a>
 
 <details><summary>Daftar Project</summary>
 
@@ -260,7 +260,7 @@
 
 ![Career](README/Career.jpg)
 
-# [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)] [[🔍](https://academy.dqlab.id/main/track/67)] Data Analyst Career Track (Python) <a href='README\data analyst.png'><img src='README\data analyst.png' align="right" height="40" /></a>
+# [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)] [[🔍](https://academy.dqlab.id/main/track/67)] Data Analyst Career Track (Python) <a href='README\analytics2.png'><img src='README\analytics.png' align="right" height="50" /></a>
 
 <details>
 <summary>Memahami Bahasa Pemrograman Fundamental</summary>
