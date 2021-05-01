@@ -38,27 +38,21 @@
 
 # Materi R <a href='README/6.png'><img src='README/6.png' align="right" height="40" /></a>
 
-<<<<<<< da60b213634711a03aa3f8b5f6295b7f4daf12e3
-=======
 <details><summary>Daftar Kelas</summary>
-<br>
 
 ## Kelas Persiapan
 
->>>>>>> Change Readme
 <details><summary>Daftar Modul</summary>
-<br>
 
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/R%20Fundamental%20for%20Data%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/1)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTR1CLGENH)] R Fundamental for Data Science
++ [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/Introduction%20to%20Data%20Science%20with%20R)] [[🔍](https://academy.dqlab.id/main/package/practice/111)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSPHOS)] Introduction to Data Science with R
 
 + [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Preliminary/R%20Fundamental%20for%20Data%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/1)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTR1CLGENH)] R Fundamental for Data Science
 
 </details>
 
-## Fundamental
+## Kelas Fundamental
 
 <details><summary>Daftar Modul</summary>
-<br>
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Fundamental/Data%20Preparation%20in%20Data%20Science%20using%20R)] [[🔍](https://academy.dqlab.id/main/package/practice/12)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWR1WHPPSC/)] Data Preparation in Data Science using R
 
@@ -72,10 +66,9 @@
 
 </details>
 
-## Applied Data Science
+## Kelas Penerapan di Industri
 
 <details><summary>Daftar Modul</summary>
-<br>
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Data%20Science%20in%20Finance%20Credit%20Risk%20Analysis)] [[🔍](https://academy.dqlab.id/main/package/practice/81)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABMLFCRLSGBIB/)] Data Science in Finance: Credit Risk Analysis
 
@@ -88,31 +81,22 @@
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Analisis%20Data%20COVID19%20di%20Indonesia)] [[🔍](https://academy.dqlab.id/main/package/practice/253)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL3%20EVHSSM)] Analisis Data COVID19 di Indonesia
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/A%20Walk%20Into%20Sensory%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/281)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDSSR1CUOCJI/)] A Walk Into Sensory Science
-<<<<<<< da60b213634711a03aa3f8b5f6295b7f4daf12e3
-  
-=======
 
 </details>
 
 </details>
 
->>>>>>> Change Readme
 <br />
     
 <!-- ![Python](README/5.png) -->
 
 # Materi Python <a href='README/5.1.png'><img src='README/5.1.png' align="right" height="45" /></a>
 
-<<<<<<< da60b213634711a03aa3f8b5f6295b7f4daf12e3
-=======
 <details><summary>Daftar Kelas</summary>
-<br>
 
 ## Kelas Persiapan
 
->>>>>>> Change Readme
 <details><summary>Daftar Modul</summary>
-<br>
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Preliminary/Introduction%20to%20Data%20Science%20with%20Python)] [[🔍](https://academy.dqlab.id/main/package/practice/162)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1BJTJVQ/)] Introduction to Data Science with Python
 
@@ -120,10 +104,9 @@
 
 </details>
 
-## Fundamental
+## Kelas Fundamental
 
 <details><summary>Daftar Modul</summary>
-<br>
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Wrangling%20Python)] [[🔍](https://academy.dqlab.id/main/package/practice/79)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1HCKQDN)] Data Wrangling Python
 
@@ -157,10 +140,9 @@
 
 </details>
 
-## Applied Data Science
+## Kelas Penerapan di Industri
 
 <details><summary>Daftar Modul</summary>
-<br>
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Basic%20Feature%20Discovering%20for%20Machine%20Learning)] [[🔍](https://academy.dqlab.id/main/package/practice/179)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABFATPYWBWGKN)] Basic Feature Discovering for Machine Learning
 
@@ -178,38 +160,29 @@
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20in%20Marketing%20%20Customer%20Segmentation%20with%20Python%20part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/294)] [[📃](ttps://academy.dqlab.id/certificate/pdf/DQLABDSCS1TNUNDC/)] Data Science in Marketing : Customer Segmentation with Python part 2
 
-<<<<<<< da60b213634711a03aa3f8b5f6295b7f4daf12e3
-=======
 </details>
 
 </details>
 
->>>>>>> Change Readme
 <br />
 
 <!-- ![SQL](README/4.png) -->
 
 # Materi SQL <a href='README/4.1.png'><img src='README/4.1.png' align="right" height="45" /></a>
 
-<<<<<<< da60b213634711a03aa3f8b5f6295b7f4daf12e3
-=======
 <details><summary>Daftar Kelas</summary>
-<br>
 
 ## Kelas Persiapan
 
->>>>>>> Change Readme
 <details><summary>Daftar Modul</summary>
-<br>
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Preliminary/Fundamental%20SQL%20with%20SELECT%20Statement)] [[🔍](https://academy.dqlab.id/main/package/practice/91)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1FLMKIW)] Fundamental SQL with SELECT Statement
 
 </details>
 
-## Fundamental
+## Kelas Fundamental
 
 <details><summary>Daftar Modul</summary>
-<br>
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20SELECT%20Statement)] [[🔍](https://academy.dqlab.id/main/package/practice/213)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1VPCNOL/)] Fundamental SQL Using SELECT Statement
 
@@ -219,13 +192,10 @@
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Group%20By%20and%20Having)] [[🔍](https://academy.dqlab.id/main/package/practice/291)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABFSQL3PDLJDJ/)] Fundamental SQL Group By and Having
 
-<<<<<<< da60b213634711a03aa3f8b5f6295b7f4daf12e3
-=======
 </details>
 
 </details>
 
->>>>>>> Change Readme
 <br />
 
 ---
@@ -248,7 +218,7 @@
 
 </details>
 
-<!-- <br /> -->
+<br />
     
 <!-- ![Python](README/5.png) -->
 
@@ -266,7 +236,7 @@
 
 </details>
 
-<!-- <br /> -->
+<br />
 
 <!-- ![SQL](README/4.png) -->
 
