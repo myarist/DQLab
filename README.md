@@ -26,9 +26,7 @@
 
 <!-- # Learn -->
 
-<div style="text-align:center">
-  <h1>Skill Track</h1>
-</div>
+<h1 align="center">Skill Track</h1>
 
 ![Learn](README/Learn.jpg)
 
@@ -200,9 +198,7 @@
 
 ---
 
-<div style="text-align:center">
-  <h1>Project</h1>
-</div>
+<h1 align="center">Project</h1>
 
 ![Project](README/Project.jpg)
 
@@ -260,9 +256,7 @@
 
 ---
 
-<div style="text-align:center">
-  <h1>Career Track</h1>
-</div>
+<h1 align="center">Career Track</h1>
 
 ![Career](README/Career.jpg)
 
@@ -338,9 +332,7 @@
 
 <br />
 
----
-
-<div style="text-align:center">
+<!-- <div style="text-align:center">
   <h1>E-Books</h1>
 </div>
 
@@ -400,7 +392,8 @@
 
 <br />
 
-<img align='right' src = "https://academy.dqlab.id/images/ebook/azure.png" height=300>
+<img align='right' src = "https://academy.dqlab.id/images/ebook/azure.png" height=300> 
+
 
 ## [[📚](https://academy.dqlab.id/free_ebook/PHI-Integration%20-%20Practical%20Introduction%20to%20Azure%20Machine%20Learning.pdf)] Simple Credit Approval Model using Decision Tree in Azure Machine Learning
 
@@ -410,13 +403,11 @@
   E-Book ini menghadirkan tutorial singkat dengan step by step dasar untuk studi kasus yang paling sering dihadapi yaitu membangun predictive modelling untuk layanan pemberian kredit.
 </p>
 
-<br />
+<br /> -->
 
 ---
 
-<div style="text-align:center">
-  <h1>Yuk Belajar di DQLab</h1>
-</div>
+<h1 align="center">Yuk Belajar di DQLab</h1>
 
 ![Poster](README/Poster.png)
 
