@@ -212,6 +212,10 @@
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Project/R/Project%20Data%20Analysis%20for%20Finance%20Proses%20Investasi%20Investor)] [[🔍](https://academy.dqlab.id/main/package/project/245)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC9BNWJUF/)] Project Data Analysis for Finance: Proses Investasi Investor
 
+- [[❌]()] [[🔍](https://academy.dqlab.id/main/package/project/298)] [[❌]()] Project Assessment using R
+
+- [[❌]()] [[🔍](https://academy.dqlab.id/main/package/project/299)] [[❌]()] Project Analisa Klasifikasi Pinjaman untuk Sektor UMKM
+
 </details>
 
 <!-- <br /> -->
@@ -229,6 +233,8 @@
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Project/Python/Project%20Machine%20Learning%20with%20Python%20Building%20Recommender%20System)] [[🔍](https://academy.dqlab.id/main/package/project/212)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC5HJDJDN/)] Project Machine Learning with Python: Building Recommender System
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Project/Python/Project%20Machine%20Learning%20with%20Python%20Building%20Recommender%20System%20with%20Similarity%20Function)] [[🔍](https://academy.dqlab.id/main/package/project/214)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABPRJC6RDCMTH)] Project Machine Learning with Python: Building Recommender System with Similarity Function
+
+- [[❌]()] [[🔍](https://academy.dqlab.id/main/package/project/300)] [[❌]()] Modul DTS Professional Academy - Data Engineer
 
 </details>
 
@@ -260,7 +266,7 @@
 
 ![Career](README/Career.jpg)
 
-# [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)] [[🔍](https://academy.dqlab.id/main/track/67)] Data Analyst Career Track (Python) <a href='README\analytics2.png'><img src='README\analytics2.png' align="right" height="45" /></a>
+Data Analyst Career Track (Python) # [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)] [[🔍](https://academy.dqlab.id/main/track/67)] <a href='README\analytics2.png'><img src='README\analytics2.png' align="right" height="45" /></a>
 
 <details>
 <summary>Memahami Bahasa Pemrograman Fundamental</summary>
@@ -274,7 +280,7 @@
 </details>
 
 <details>
-<summary>Memahami Bahasa SQL dan Sistem Database Relasional agar dapat mengolah data di Perusahaan Yang Sudah Menerapkan Sistem IT</summary>
+<summary>Memahami Bahasa SQL dan RDBMS agar dapat mengolah data di Perusahaan Yang Sudah Menerapkan Sistem IT</summary>
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Using%20SELECT%20Statement)] [[🔍](https://academy.dqlab.id/main/package/practice/213)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1VPCNOL/)] Fundamental SQL Using SELECT Statement
 
