@@ -38,6 +38,14 @@
 
 # Materi R <a href='README/6.png'><img src='README/6.png' align="right" height="40" /></a>
 
+<<<<<<< da60b213634711a03aa3f8b5f6295b7f4daf12e3
+=======
+<details><summary>Daftar Kelas</summary>
+<br>
+
+## Kelas Persiapan
+
+>>>>>>> Change Readme
 <details><summary>Daftar Modul</summary>
 <br>
 
@@ -80,13 +88,29 @@
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/Analisis%20Data%20COVID19%20di%20Indonesia)] [[🔍](https://academy.dqlab.id/main/package/practice/253)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABAPL3%20EVHSSM)] Analisis Data COVID19 di Indonesia
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/R/Applied%20Data%20Science/A%20Walk%20Into%20Sensory%20Science)] [[🔍](https://academy.dqlab.id/main/package/practice/281)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDSSR1CUOCJI/)] A Walk Into Sensory Science
+<<<<<<< da60b213634711a03aa3f8b5f6295b7f4daf12e3
   
+=======
+
+</details>
+
+</details>
+
+>>>>>>> Change Readme
 <br />
     
 <!-- ![Python](README/5.png) -->
 
 # Materi Python <a href='README/5.1.png'><img src='README/5.1.png' align="right" height="45" /></a>
 
+<<<<<<< da60b213634711a03aa3f8b5f6295b7f4daf12e3
+=======
+<details><summary>Daftar Kelas</summary>
+<br>
+
+## Kelas Persiapan
+
+>>>>>>> Change Readme
 <details><summary>Daftar Modul</summary>
 <br>
 
@@ -154,12 +178,27 @@
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20in%20Marketing%20%20Customer%20Segmentation%20with%20Python%20part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/294)] [[📃](ttps://academy.dqlab.id/certificate/pdf/DQLABDSCS1TNUNDC/)] Data Science in Marketing : Customer Segmentation with Python part 2
 
+<<<<<<< da60b213634711a03aa3f8b5f6295b7f4daf12e3
+=======
+</details>
+
+</details>
+
+>>>>>>> Change Readme
 <br />
 
 <!-- ![SQL](README/4.png) -->
 
 # Materi SQL <a href='README/4.1.png'><img src='README/4.1.png' align="right" height="45" /></a>
 
+<<<<<<< da60b213634711a03aa3f8b5f6295b7f4daf12e3
+=======
+<details><summary>Daftar Kelas</summary>
+<br>
+
+## Kelas Persiapan
+
+>>>>>>> Change Readme
 <details><summary>Daftar Modul</summary>
 <br>
 
@@ -180,6 +219,13 @@
 
 - [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/SQL/Fundamental/Fundamental%20SQL%20Group%20By%20and%20Having)] [[🔍](https://academy.dqlab.id/main/package/practice/291)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABFSQL3PDLJDJ/)] Fundamental SQL Group By and Having
 
+<<<<<<< da60b213634711a03aa3f8b5f6295b7f4daf12e3
+=======
+</details>
+
+</details>
+
+>>>>>>> Change Readme
 <br />
 
 ---
@@ -202,7 +248,7 @@
 
 </details>
 
-<br />
+<!-- <br /> -->
     
 <!-- ![Python](README/5.png) -->
 
@@ -220,7 +266,7 @@
 
 </details>
 
-<br />
+<!-- <br /> -->
 
 <!-- ![SQL](README/4.png) -->
 
